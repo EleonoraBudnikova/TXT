@@ -1,0 +1,6 @@
+1) Terminal,
+2) Git,
+3) JS,
+4) SQL,
+5) Jmeter,
+6) Scrum
