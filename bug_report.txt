@@ -1,1 +1,19 @@
-
+Title: Pop-up window does not dissappear until the date is not changed,
+Type: Bug
+Priority: Low
+Status: Blocked
+Author_CreatedBy: Vasily Vasilkov
+Severity:
+Build:
+Environment:
+ 
+Description.
+Steps to reproduce:  
+1) select any dish;
+2) go to the basket;
+3) select a date next to the last delivery date in the menu;
+4) after the pop-up Delivery up to 14_11 appears, click on the Change a date button;
+5) look at the pop-up
+	 
+Expected result: The pop-up Delivery up to 14_11 does not appear
+Actual result: The pop-up remains until the date is not chaged to the suitable one
